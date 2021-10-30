@@ -1,11 +1,11 @@
 ### Hi there, I'm Daniel Magalhães 👋
 
-- :dollar: I’m currently working as financial analyst
+- :dollar: I’m currently working as Financial Analyst
 - 🌱 I’m currently learning Web Development at [@Rocketseat](https://github.com/rocketseat-education)
 - 👯 I'm looking to practice and gain experiences
 - ⚡ Fun fact: I'm 37 years old, when I learn and put into practice, i feel like a young boy again... and that's how I see myself! :heart:
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielsmagalhaes&show_icons=true&theme=radical)
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielsmagalhaes&show_icons=true&theme=noctis_minimus)
 
 ## Learning Fullstack Web Developer
 
